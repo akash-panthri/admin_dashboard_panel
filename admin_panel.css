@@ -12,6 +12,7 @@ body{
     width: 100%;
     background-color: #e4e7eb;
     position: relative;
+    display: flex;
 }
 #menu{
     background: #111827;
