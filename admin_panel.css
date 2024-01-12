@@ -132,6 +132,18 @@ margin: 0 10px 0 25px;
    
   }
   
+  .n1{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    }
+    #menu-btn{
+      display: none;
+    color: #2B2B2B;
+    font-size: 20px;
+    cursor: pointer;
+    margin-right: 20px;
+    }
   .values {
     padding: 30px 30px 0 30px;
     display: flex;
